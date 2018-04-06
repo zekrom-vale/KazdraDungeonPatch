@@ -1,0 +1,771 @@
+[12:51:56.042] [Info] Root: Preparing Root...
+[12:51:56.042] [Info] Root: Done preparing Root.
+[12:51:56.042] [Info] Client Version 1.3.3 (windows x86_64) Source ID: c21069b204d626bfe673a047a2100d2fcd0766d4 Protocol: 743
+[12:51:56.042] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[12:51:56.409] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[12:51:56.409] [Info] Root: Skipping hidden '.tmp.drivedownload' in asset directory
+[12:51:58.337] [Warn] Root: Overriding duplicate asset source '..\mods\FU' named 'FrackinUniverse' with higher or equal priority source '..\mods\FrackinUniverse-master'
+[12:51:58.391] [Info] Root: Scanning for asset sources in directory '..\mymods\mods\'
+[12:51:58.398] [Info] Root: Scanning for asset sources in directory '..\mymods\DraconisShipForKazdra\DraconisShipForKazdra\'
+[12:51:58.400] [Info] Root: Scanning for asset sources in directory '..\mymods\KazdraDungeonPatch\KazdraDungeonPatch\'
+[12:51:58.406] [Info] Root: Scanning for asset sources in directory '..\mymods\ZekromsKazdraRecipes\ZekromsKazdraRecipes\'
+[12:51:58.423] [Info] Root: Scanning for asset sources in directory '..\mymods\ZekromsKazdraAdditions\ZekromsKazdraAdditions\'
+[12:51:58.445] [Info] Root: Scanning for asset sources in directory '..\mymods\DynamicSpawn\DynamicSpawn\'
+[12:51:58.449] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[12:51:58.449] [Info] Root: Detected unnamed asset source at '..\assets\packed'
+[12:51:58.449] [Info] Root: Detected asset source named 'FrackinUniverse' at '..\mods\FrackinUniverse-master'
+[12:51:58.449] [Info] Root: Detected asset source named 'kazdrareloaded' at '..\mods\Kazdra0.1.3'
+[12:51:58.449] [Info] Root: Detected asset source named 'Space Police - Villager Protection' at '..\mods\Space Police'
+[12:51:58.449] [Info] Root: Detected unnamed asset source at '..\mods\Tiled'
+[12:51:58.449] [Info] Root: Detected unnamed asset source at '..\mymods\mods\FUupdateSkip'
+[12:51:58.449] [Info] Root: Detected unnamed asset source at '..\mymods\mods\ZekromValesMasiveAirlocks'
+[12:51:58.449] [Info] Root: Detected unnamed asset source at '..\mymods\mods\old'
+[12:51:58.449] [Info] Root: Detected asset source named 'oldtitlemusic' at '..\mymods\mods\oldtitlemusic'
+[12:51:58.449] [Info] Root: Detected asset source named 'Draconis Race(Humanoid Dragon Race)' at '..\mods\Draconis Race(Humanoid Dragon Race)'
+[12:51:58.449] [Info] Root: Detected asset source named 'DraconisShipForKazdra' at '..\mymods\DraconisShipForKazdra\DraconisShipForKazdra\DraconisShipForKazdra'
+[12:51:58.449] [Info] Root: Detected asset source named 'ZekromsKazdraRecipes' at '..\mymods\ZekromsKazdraRecipes\ZekromsKazdraRecipes\ZekromsKazdraRecipes'
+[12:51:58.449] [Info] Root: Detected asset source named 'KazdraDungeonPatch' at '..\mymods\KazdraDungeonPatch\KazdraDungeonPatch\KazdraDungeonPatch'
+[12:51:58.449] [Info] Root: Detected asset source named 'ZekromsKazdraAdditions' at '..\mymods\ZekromsKazdraAdditions\ZekromsKazdraAdditions\ZekromsKazdraAdditions'
+[12:51:58.449] [Info] Root: Detected asset source named 'DynamicSpawn' at '..\mymods\DynamicSpawn\DynamicSpawn\DynamicSpawn'
+[12:51:58.449] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[12:51:58.449] [Info] Loading assets from: '..\assets\packed.pak'
+[12:51:58.960] [Info] Loading assets from: '..\assets\packed'
+[12:51:58.970] [Info] Loading assets from: '..\mods\FrackinUniverse-master'
+[12:52:01.275] [Info] Loading assets from: '..\mods\Kazdra0.1.3'
+[12:52:01.321] [Info] Loading assets from: '..\mods\Space Police'
+[12:52:01.325] [Info] Loading assets from: '..\mods\Tiled'
+[12:52:01.520] [Info] Loading assets from: '..\mymods\mods\FUupdateSkip'
+[12:52:01.521] [Info] Loading assets from: '..\mymods\mods\ZekromValesMasiveAirlocks'
+[12:52:01.524] [Info] Loading assets from: '..\mymods\mods\old'
+[12:52:01.525] [Info] Loading assets from: '..\mymods\mods\oldtitlemusic'
+[12:52:01.527] [Info] Loading assets from: '..\mods\Draconis Race(Humanoid Dragon Race)'
+[12:52:01.670] [Info] Loading assets from: '..\mymods\DraconisShipForKazdra\DraconisShipForKazdra\DraconisShipForKazdra'
+[12:52:01.674] [Info] Loading assets from: '..\mymods\ZekromsKazdraRecipes\ZekromsKazdraRecipes\ZekromsKazdraRecipes'
+[12:52:01.707] [Info] Loading assets from: '..\mymods\KazdraDungeonPatch\KazdraDungeonPatch\KazdraDungeonPatch'
+[12:52:01.712] [Info] Loading assets from: '..\mymods\ZekromsKazdraAdditions\ZekromsKazdraAdditions\ZekromsKazdraAdditions'
+[12:52:01.766] [Info] Loading assets from: '..\mymods\DynamicSpawn\DynamicSpawn\DynamicSpawn'
+[12:52:01.774] [Info] Loading assets from: '..\assets\user'
+[12:52:29.929] [Info] Assets digest is 3dcb5710d28d928102acd4abbcebe22348febe94eb1539b2c1a23b350c16353d
+[12:52:29.929] [Info] Root: Loaded Assets in 33.8872 seconds
+[12:52:29.933] [Info] Application: Initializing SDL Video
+[12:52:29.958] [Info] Application: Initializing SDL Joystick
+[12:52:30.081] [Info] Application: Initializing SDL Sound
+[12:52:30.159] [Info] Initialized Steam services
+[12:52:30.160] [Info] Application: Creating SDL Window
+[12:52:32.204] [Info] Application: Enabling VSync with late swap tearing
+[12:52:32.266] [Info] Application: Opened default audio device with 44.1khz / 16 bit stereo audio, 2048 sample size buffer
+[12:52:32.275] [Info] OpenGL version: '4.5.0 NVIDIA 369.09' vendor: 'NVIDIA Corporation' renderer: 'GeForce GT 750M/PCIe/SSE2' shader: '4.50 NVIDIA'
+[12:52:32.280] [Info] Application: initialization...
+[12:52:32.283] [Info] Root: Loaded Configuration in 0.0030782 seconds
+[12:52:32.297] [Info] Application: renderer initialization...
+[12:52:32.298] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[12:52:32.298] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 64
+[12:52:32.299] [Info] Root: Loaded ImageMetadataDatabase in 1.78488e-06 seconds
+[12:52:32.319] [Info] Application: main update loop...
+[12:52:32.353] [Info] Loading mods from user generated content with id '1074961120' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1074961120'
+[12:52:32.353] [Info] Loading mods from user generated content with id '1165402390' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1165402390'
+[12:52:32.353] [Info] Loading mods from user generated content with id '1181699750' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1181699750'
+[12:52:32.353] [Info] Loading mods from user generated content with id '739151610' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\739151610'
+[12:52:32.353] [Info] Loading mods from user generated content with id '1218671249' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1218671249'
+[12:52:32.353] [Info] Loading mods from user generated content with id '958539829' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\958539829'
+[12:52:32.353] [Info] Loading mods from user generated content with id '747934397' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747934397'
+[12:52:32.353] [Info] Loading mods from user generated content with id '1091363262' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1091363262'
+[12:52:32.354] [Info] Loading mods from user generated content with id '761242493' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\761242493'
+[12:52:32.354] [Info] Loading mods from user generated content with id '741400551' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741400551'
+[12:52:32.354] [Info] Loading mods from user generated content with id '885877773' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\885877773'
+[12:52:32.354] [Info] Loading mods from user generated content with id '736593129' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\736593129'
+[12:52:32.354] [Info] Loading mods from user generated content with id '733047573' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733047573'
+[12:52:32.354] [Info] Loading mods from user generated content with id '764888606' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764888606'
+[12:52:32.354] [Info] Loading mods from user generated content with id '729558042' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729558042'
+[12:52:32.354] [Info] Loading mods from user generated content with id '882900100' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\882900100'
+[12:52:32.354] [Info] Loading mods from user generated content with id '734706471' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734706471'
+[12:52:32.354] [Info] Loading mods from user generated content with id '730984694' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730984694'
+[12:52:32.355] [Info] Loading mods from user generated content with id '731957126' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731957126'
+[12:52:32.355] [Info] Loading mods from user generated content with id '731220462' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731220462'
+[12:52:32.355] [Info] Loading mods from user generated content with id '735169732' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\735169732'
+[12:52:32.355] [Info] Loading mods from user generated content with id '1239011708' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239011708'
+[12:52:32.355] [Info] Loading mods from user generated content with id '1236279368' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1236279368'
+[12:52:32.355] [Info] Loading mods from user generated content with id '1235347675' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1235347675'
+[12:52:32.355] [Info] Loading mods from user generated content with id '945707062' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\945707062'
+[12:52:32.355] [Info] Loading mods from user generated content with id '942971334' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942971334'
+[12:52:32.355] [Info] Loading mods from user generated content with id '879213535' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\879213535'
+[12:52:32.355] [Info] Loading mods from user generated content with id '823739640' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\823739640'
+[12:52:32.356] [Info] Loading mods from user generated content with id '796877993' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\796877993'
+[12:52:32.356] [Info] Loading mods from user generated content with id '764887546' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764887546'
+[12:52:32.356] [Info] Loading mods from user generated content with id '745573454' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\745573454'
+[12:52:32.356] [Info] Loading mods from user generated content with id '734581251' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734581251'
+[12:52:32.356] [Info] Loading mods from user generated content with id '729824320' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729824320'
+[12:52:32.356] [Info] Loading mods from user generated content with id '729428037' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428037'
+[12:52:32.356] [Info] Loading mods from user generated content with id '729426797' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426797'
+[12:52:32.357] [Info] Loading mods from user generated content with id '729426722' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426722'
+[12:52:32.357] [Info] Loading mods from user generated content with id '1102394541' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1102394541'
+[12:52:32.357] [Info] Loading mods from user generated content with id '855668523' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\855668523'
+[12:52:32.357] [Info] Loading mods from user generated content with id '821455287' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\821455287'
+[12:52:32.357] [Info] Loading mods from user generated content with id '817468961' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\817468961'
+[12:52:32.357] [Info] Loading mods from user generated content with id '741194961' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741194961'
+[12:52:32.357] [Info] Loading mods from user generated content with id '740834534' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740834534'
+[12:52:32.357] [Info] Loading mods from user generated content with id '737840198' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\737840198'
+[12:52:32.357] [Info] Loading mods from user generated content with id '734170655' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734170655'
+[12:52:32.357] [Info] Loading mods from user generated content with id '733403716' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733403716'
+[12:52:32.358] [Info] Loading mods from user generated content with id '733139672' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733139672'
+[12:52:32.358] [Info] Loading mods from user generated content with id '732590195' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732590195'
+[12:52:32.358] [Info] Loading mods from user generated content with id '730745660' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730745660'
+[12:52:32.358] [Info] Loading mods from user generated content with id '729492703' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729492703'
+[12:52:32.358] [Info] Loading mods from user generated content with id '732206342' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732206342'
+[12:52:32.358] [Info] Loading mods from user generated content with id '732096973' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732096973'
+[12:52:32.358] [Info] Loading mods from user generated content with id '731592371' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731592371'
+[12:52:32.358] [Info] Loading mods from user generated content with id '731044896' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731044896'
+[12:52:32.358] [Info] Loading mods from user generated content with id '730867662' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730867662'
+[12:52:32.358] [Info] Loading mods from user generated content with id '730587191' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730587191'
+[12:52:32.358] [Info] Loading mods from user generated content with id '730396626' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730396626'
+[12:52:32.358] [Info] Loading mods from user generated content with id '730388011' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730388011'
+[12:52:32.359] [Info] Loading mods from user generated content with id '730378641' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730378641'
+[12:52:32.359] [Info] Loading mods from user generated content with id '730363398' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730363398'
+[12:52:32.359] [Info] Loading mods from user generated content with id '730360251' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730360251'
+[12:52:32.359] [Info] Loading mods from user generated content with id '730353842' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730353842'
+[12:52:32.359] [Info] Loading mods from user generated content with id '729746228' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729746228'
+[12:52:32.359] [Info] Loading mods from user generated content with id '729731141' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729731141'
+[12:52:32.359] [Info] Loading mods from user generated content with id '729532886' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729532886'
+[12:52:32.359] [Info] Loading mods from user generated content with id '729428991' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428991'
+[12:52:32.359] [Info] Loading mods from user generated content with id '729428803' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428803'
+[12:52:32.359] [Info] Loading mods from user generated content with id '729428280' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428280'
+[12:52:32.359] [Info] Loading mods from user generated content with id '729427744' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427744'
+[12:52:32.360] [Info] Loading mods from user generated content with id '749138636' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\749138636'
+[12:52:32.360] [Info] Loading mods from user generated content with id '743328719' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\743328719'
+[12:52:32.360] [Info] Loading mods from user generated content with id '753464364' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\753464364'
+[12:52:32.360] [Info] Loading mods from user generated content with id '747212922' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747212922'
+[12:52:32.360] [Info] Loading mods from user generated content with id '1107561606' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1107561606'
+[12:52:32.360] [Info] Loading mods from user generated content with id '732277574' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732277574'
+[12:52:32.360] [Info] Loading mods from user generated content with id '1150594604' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1150594604'
+[12:52:32.360] [Info] Loading mods from user generated content with id '954063152' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\954063152'
+[12:52:32.360] [Info] Loading mods from user generated content with id '1104656560' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1104656560'
+[12:52:32.360] [Info] Loading mods from user generated content with id '1109048662' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1109048662'
+[12:52:32.360] [Info] Loading mods from user generated content with id '946935581' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\946935581'
+[12:52:32.361] [Info] Loading mods from user generated content with id '751976722' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\751976722'
+[12:52:32.361] [Info] Loading mods from user generated content with id '1147682809' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1147682809'
+[12:52:32.361] [Info] Loading mods from user generated content with id '820860996' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\820860996'
+[12:52:32.361] [Info] Loading mods from user generated content with id '729791646' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729791646'
+[12:52:32.361] [Info] Loading mods from user generated content with id '729427436' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427436'
+[12:52:32.361] [Info] Loading mods from user generated content with id '1243697034' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1243697034'
+[12:52:32.361] [Info] Loading mods from user generated content with id '731125431' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731125431'
+[12:52:32.361] [Info] Loading mods from user generated content with id '942632292' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942632292'
+[12:52:32.361] [Info] Loading mods from user generated content with id '740694177' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740694177'
+[12:52:32.361] [Info] Loading mods from user generated content with id '729801206' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729801206'
+[12:52:32.361] [Info] Loading mods from user generated content with id '1194878261' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1194878261'
+[12:52:32.362] [Info] Loading mods from user generated content with id '972085950' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\972085950'
+[12:52:32.362] [Info] Loading mods from user generated content with id '1239952506' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239952506'
+[12:52:32.362] [Info] Loading mods from user generated content with id '1115920474' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1115920474'
+[12:52:32.362] [Info] Loading mods from user generated content with id '730344724' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730344724'
+[12:52:32.362] [Info] Loading mods from user generated content with id '730078073' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730078073'
+[12:52:32.362] [Info] Loading mods from user generated content with id '956247051' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\956247051'
+[12:52:32.362] [Info] Loading mods from user generated content with id '1119086325' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1119086325'
+[12:52:32.362] [Info] Loading mods from user generated content with id '1240540230' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1240540230'
+[12:52:32.362] [Info] Loading mods from user generated content with id '763259329' from directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\763259329'
+[12:52:32.362] [Info] Reloading to include all user generated content
+[12:52:32.362] [Info] Root: Reloading from disk
+[12:52:32.362] [Info] Root: Writing runtime configuration to '..\storage\starbound.config'
+[12:52:32.424] [Info] Root: Loaded Configuration in 0.00272612 seconds
+[12:52:32.424] [Info] Root: Scanning for asset sources in directory '..\assets\'
+[12:52:32.782] [Info] Root: Scanning for asset sources in directory '..\mods\'
+[12:52:32.782] [Info] Root: Skipping hidden '.tmp.drivedownload' in asset directory
+[12:52:34.562] [Warn] Root: Overriding duplicate asset source '..\mods\FU' named 'FrackinUniverse' with higher or equal priority source '..\mods\FrackinUniverse-master'
+[12:52:34.587] [Warn] Root: Unrecognized file in asset directory 'Kazdra0.1.3.zip', skipping
+[12:52:34.587] [Warn] Root: Unrecognized file in asset directory 'PAK_GUI.exe', skipping
+[12:52:34.616] [Warn] Root: Unrecognized file in asset directory 'mymods.lnk', skipping
+[12:52:34.616] [Warn] Root: Unrecognized file in asset directory 'starbound.log.lnk', skipping
+[12:52:34.616] [Warn] Root: Unrecognized file in asset directory 'unpackedAssets.lnk', skipping
+[12:52:34.616] [Info] Root: Scanning for asset sources in directory '..\mymods\mods\'
+[12:52:34.622] [Info] Root: Scanning for asset sources in directory '..\mymods\DraconisShipForKazdra\DraconisShipForKazdra\'
+[12:52:34.625] [Info] Root: Scanning for asset sources in directory '..\mymods\KazdraDungeonPatch\KazdraDungeonPatch\'
+[12:52:34.629] [Info] Root: Scanning for asset sources in directory '..\mymods\ZekromsKazdraRecipes\ZekromsKazdraRecipes\'
+[12:52:34.646] [Info] Root: Scanning for asset sources in directory '..\mymods\ZekromsKazdraAdditions\ZekromsKazdraAdditions\'
+[12:52:34.667] [Info] Root: Scanning for asset sources in directory '..\mymods\DynamicSpawn\DynamicSpawn\'
+[12:52:34.671] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1074961120'
+[12:52:34.672] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1165402390'
+[12:52:34.673] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1181699750'
+[12:52:34.676] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\739151610'
+[12:52:34.678] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1218671249'
+[12:52:34.681] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\958539829'
+[12:52:34.683] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747934397'
+[12:52:34.685] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1091363262'
+[12:52:34.686] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\761242493'
+[12:52:34.702] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741400551'
+[12:52:34.703] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\885877773'
+[12:52:34.708] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\736593129'
+[12:52:34.709] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733047573'
+[12:52:34.710] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764888606'
+[12:52:34.713] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729558042'
+[12:52:34.729] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\882900100'
+[12:52:34.731] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734706471'
+[12:52:34.732] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730984694'
+[12:52:34.733] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731957126'
+[12:52:34.740] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731220462'
+[12:52:34.753] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\735169732'
+[12:52:34.754] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239011708'
+[12:52:34.755] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1236279368'
+[12:52:34.756] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1235347675'
+[12:52:34.759] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\945707062'
+[12:52:34.762] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942971334'
+[12:52:34.765] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\879213535'
+[12:52:34.766] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\823739640'
+[12:52:34.768] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\796877993'
+[12:52:34.769] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764887546'
+[12:52:34.770] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\745573454'
+[12:52:34.771] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734581251'
+[12:52:34.772] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729824320'
+[12:52:34.775] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428037'
+[12:52:34.777] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426797'
+[12:52:34.780] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426722'
+[12:52:34.781] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1102394541'
+[12:52:34.784] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\855668523'
+[12:52:34.784] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\821455287'
+[12:52:34.785] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\817468961'
+[12:52:34.786] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741194961'
+[12:52:34.787] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740834534'
+[12:52:34.807] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\737840198'
+[12:52:34.809] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734170655'
+[12:52:34.814] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733403716'
+[12:52:34.826] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733139672'
+[12:52:34.827] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732590195'
+[12:52:34.828] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730745660'
+[12:52:34.832] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729492703'
+[12:52:34.837] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732206342'
+[12:52:34.838] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732096973'
+[12:52:34.841] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731592371'
+[12:52:34.844] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731044896'
+[12:52:34.845] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730867662'
+[12:52:34.846] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730587191'
+[12:52:34.847] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730396626'
+[12:52:34.849] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730388011'
+[12:52:34.851] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730378641'
+[12:52:34.853] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730363398'
+[12:52:34.855] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730360251'
+[12:52:34.856] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730353842'
+[12:52:34.859] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729746228'
+[12:52:34.861] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729731141'
+[12:52:34.862] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729532886'
+[12:52:34.863] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428991'
+[12:52:34.869] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428803'
+[12:52:34.871] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428280'
+[12:52:34.873] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427744'
+[12:52:34.885] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\749138636'
+[12:52:34.886] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\743328719'
+[12:52:34.887] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\753464364'
+[12:52:34.888] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747212922'
+[12:52:34.890] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1107561606'
+[12:52:34.891] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732277574'
+[12:52:34.893] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1150594604'
+[12:52:34.894] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\954063152'
+[12:52:34.895] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1104656560'
+[12:52:34.896] [Warn] Root: Overriding duplicate asset source '..\mods\Space Police' named 'Space Police - Villager Protection' with higher or equal priority source 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1104656560\contents.pak'
+[12:52:34.896] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1109048662'
+[12:52:34.897] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\946935581'
+[12:52:34.898] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\751976722'
+[12:52:34.899] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1147682809'
+[12:52:34.899] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\820860996'
+[12:52:34.903] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729791646'
+[12:52:34.904] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427436'
+[12:52:34.908] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1243697034'
+[12:52:34.910] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731125431'
+[12:52:34.925] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942632292'
+[12:52:34.927] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740694177'
+[12:52:34.935] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729801206'
+[12:52:34.936] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1194878261'
+[12:52:34.937] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\972085950'
+[12:52:34.938] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239952506'
+[12:52:34.939] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1115920474'
+[12:52:34.976] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730344724'
+[12:52:34.980] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730078073'
+[12:52:34.982] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\956247051'
+[12:52:34.984] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1119086325'
+[12:52:34.985] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1240540230'
+[12:52:34.986] [Info] Root: Scanning for asset sources in directory 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\763259329'
+[12:52:35.042] [Info] Root: Detected asset source named 'base' at '..\assets\packed.pak'
+[12:52:35.042] [Info] Root: Detected asset source named 'many_tabs1' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1119086325\contents.pak'
+[12:52:35.042] [Info] Root: Detected asset source named 'xbawks' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426722\contents.pak'
+[12:52:35.042] [Info] Root: Detected unnamed asset source at '..\assets\packed'
+[12:52:35.043] [Info] Root: Detected asset source named 'AI Restorer' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729801206\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Disable Tile Protection on Space Stations' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\972085950\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'AnTiVegetation' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734170655\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Barrage heavy mecha' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942971334\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'XS Mechs : Modular Edition (BETA)' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\945707062\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'xsmm_weapons' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\958539829\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'FrackinUniverse' at '..\mods\FrackinUniverse-master'
+[12:52:35.043] [Info] Root: Detected asset source named 'kazdrareloaded' at '..\mods\Kazdra0.1.3'
+[12:52:35.043] [Info] Root: Detected asset source named 'Space Police - Villager Protection' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1104656560\contents.pak'
+[12:52:35.043] [Info] Root: Detected unnamed asset source at '..\mods\Tiled'
+[12:52:35.043] [Info] Root: Detected unnamed asset source at '..\mymods\mods\FUupdateSkip'
+[12:52:35.043] [Info] Root: Detected unnamed asset source at '..\mymods\mods\ZekromValesMasiveAirlocks'
+[12:52:35.043] [Info] Root: Detected unnamed asset source at '..\mymods\mods\old'
+[12:52:35.043] [Info] Root: Detected asset source named 'oldtitlemusic' at '..\mymods\mods\oldtitlemusic'
+[12:52:35.043] [Info] Root: Detected asset source named 'Draconis Race(Humanoid Dragon Race)' at '..\mods\Draconis Race(Humanoid Dragon Race)'
+[12:52:35.043] [Info] Root: Detected asset source named 'DraconisShipForKazdra' at '..\mymods\DraconisShipForKazdra\DraconisShipForKazdra\DraconisShipForKazdra'
+[12:52:35.043] [Info] Root: Detected asset source named 'ZekromsKazdraRecipes' at '..\mymods\ZekromsKazdraRecipes\ZekromsKazdraRecipes\ZekromsKazdraRecipes'
+[12:52:35.043] [Info] Root: Detected asset source named 'KazdraDungeonPatch' at '..\mymods\KazdraDungeonPatch\KazdraDungeonPatch\KazdraDungeonPatch'
+[12:52:35.043] [Info] Root: Detected asset source named 'ZekromsKazdraAdditions' at '..\mymods\ZekromsKazdraAdditions\ZekromsKazdraAdditions\ZekromsKazdraAdditions'
+[12:52:35.043] [Info] Root: Detected asset source named 'DynamicSpawn' at '..\mymods\DynamicSpawn\DynamicSpawn\DynamicSpawn'
+[12:52:35.043] [Info] Root: Detected asset source named 'Clean Stations' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1074961120\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Shuttlecraft' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1102394541\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Shuttlecraftdeployment' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1165402390\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'recaddon' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1181699750\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Combinable Augments' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\739151610\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'WolFenFLCN-11Gunship' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1218671249\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Pets Are Useful' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239952506\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Very Varied Vehicle' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747934397\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'MechVisualOverhaul' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1091363262\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Cutebound' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\761242493\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'No Annoying Weather' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741400551\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Parallax Compression' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\885877773\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'No Shadows (RAMs version)' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\736593129\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'beam_up_from_underground' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733047573\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'StardustLib' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764887546\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'StarTech' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764888606\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Avali' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729558042\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Portable Outpost' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730344724\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Craftable Components' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734706471\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'EPP Light Mod' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730984694\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Extended GUI' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426797\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'GardenBot2' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428280\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Enhanced Storage' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731220462\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Enhanced Storage [Hoarder Addon]' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731957126\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Better_Augments_Mod' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\735169732\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'EnhancedBeginning' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239011708\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'Better Action Bar & Icons (Numbered & Tiered)' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1236279368\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'shifttocollect' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1235347675\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'learnblueprintsonscan' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\879213535\contents.pak'
+[12:52:35.043] [Info] Root: Detected asset source named 'betterupgrades7' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\823739640\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'No More Erchius Ghost' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730078073\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'steambound' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\745573454\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Augment Slot for Back Items' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734581251\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'No Weather Particles' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1240540230\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Augment Extractor' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\855668523\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'FrackinActionBars' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\821455287\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'meleeaim' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\817468961\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'One-Handed Torch' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730587191\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Submarine' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\737840198\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'argonian' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740694177\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Sergal Race Mod' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731125431\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Augment Slots for Armor' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733403716\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Earths Finest - Crew Improvements' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733139672\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Improved Techs' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732590195\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'AnTiMonster' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730745660\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'FrackinMusic' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729492703\content.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Pay Up - Rent' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732206342\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'GimmeCotton' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732096973\contents.pak'
+[12:52:35.044] [Info] Root: Detected unnamed asset source at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731592371\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'CompactCrops' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731044896\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Slow_Hunger' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730867662\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Item Broadcaster & Hyper-storage v1.5' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730396626\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Larger Lockers' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730388011\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'PerennialCrops' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730378641\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Efficient Watering' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730363398\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Ocean Music Restored' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730360251\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Desert Music Restored' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730353842\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Disabled drop for Survival Mode' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729746228\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'x5 Basic Drop Rates' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729731141\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Universal Uncrafter v1.46' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729532886\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Reclaimable Turrets' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\749138636\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'NonUniform' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\743328719\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'MoonOverhaul' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\753464364\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Crew Size OVERCAPPED' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747212922\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'More worker pool threads' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1107561606\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'PerennialCrops_FU_Edition' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732277574\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'LCDsalvagecraft' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\954063152\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Better Staff Zones' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1109048662\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Avali_Additions' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\751976722\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'AvaliPlatedEnergyRailHatch' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\946935581\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'bk3k_boundless_spaceStations' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1147682809\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'Terrain_Improvements' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\820860996\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'ExtraZoomLevels' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729791646\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'az-mechhelmremover' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942632292\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'bk3k_inventory' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\882900100\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'bk3k_inventory_reskin1' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1150594604\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'XS_Mechs' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428991\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'skizots_dozers' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428803\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'xsmechs_variants' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740834534\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'food_stack' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427436\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'many_tabs2' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\956247051\contents.pak'
+[12:52:35.044] [Info] Root: Detected asset source named 'skippable_cinematics' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428037\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'Illuminated Ores' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729824320\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'Unbreakable Teleporters' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741194961\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'StarTechFU' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\796877993\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'instant_crafting' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427744\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'FUBYOSModdedRaceSupport' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1194878261\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'FrackinRaces' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\763259329\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'RPG_Growth' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1115920474\contents.pak'
+[12:52:35.045] [Info] Root: Detected asset source named 'draconisdragons2' at 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1243697034\contents.pak'
+[12:52:35.045] [Info] Root: Detected unnamed asset source at '..\assets\user'
+[12:52:35.045] [Info] Loading assets from: '..\assets\packed.pak'
+[12:52:35.564] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1119086325\contents.pak'
+[12:52:35.566] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426722\contents.pak'
+[12:52:35.567] [Info] Loading assets from: '..\assets\packed'
+[12:52:35.577] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729801206\contents.pak'
+[12:52:35.579] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\972085950\contents.pak'
+[12:52:35.581] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734170655\contents.pak'
+[12:52:35.587] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942971334\contents.pak'
+[12:52:35.591] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\945707062\contents.pak'
+[12:52:35.595] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\958539829\contents.pak'
+[12:52:35.598] [Info] Loading assets from: '..\mods\FrackinUniverse-master'
+[12:52:37.883] [Info] Loading assets from: '..\mods\Kazdra0.1.3'
+[12:52:37.932] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1104656560\contents.pak'
+[12:52:37.934] [Info] Loading assets from: '..\mods\Tiled'
+[12:52:38.133] [Info] Loading assets from: '..\mymods\mods\FUupdateSkip'
+[12:52:38.134] [Info] Loading assets from: '..\mymods\mods\ZekromValesMasiveAirlocks'
+[12:52:38.137] [Info] Loading assets from: '..\mymods\mods\old'
+[12:52:38.138] [Info] Loading assets from: '..\mymods\mods\oldtitlemusic'
+[12:52:38.140] [Info] Loading assets from: '..\mods\Draconis Race(Humanoid Dragon Race)'
+[12:52:38.279] [Info] Loading assets from: '..\mymods\DraconisShipForKazdra\DraconisShipForKazdra\DraconisShipForKazdra'
+[12:52:38.282] [Info] Loading assets from: '..\mymods\ZekromsKazdraRecipes\ZekromsKazdraRecipes\ZekromsKazdraRecipes'
+[12:52:38.313] [Info] Loading assets from: '..\mymods\KazdraDungeonPatch\KazdraDungeonPatch\KazdraDungeonPatch'
+[12:52:38.318] [Info] Loading assets from: '..\mymods\ZekromsKazdraAdditions\ZekromsKazdraAdditions\ZekromsKazdraAdditions'
+[12:52:38.364] [Info] Loading assets from: '..\mymods\DynamicSpawn\DynamicSpawn\DynamicSpawn'
+[12:52:38.371] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1074961120\contents.pak'
+[12:52:38.372] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1102394541\contents.pak'
+[12:52:38.376] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1165402390\contents.pak'
+[12:52:38.377] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1181699750\contents.pak'
+[12:52:38.378] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\739151610\contents.pak'
+[12:52:38.379] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1218671249\contents.pak'
+[12:52:38.381] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239952506\contents.pak'
+[12:52:38.382] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747934397\contents.pak'
+[12:52:38.384] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1091363262\contents.pak'
+[12:52:38.384] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\761242493\contents.pak'
+[12:52:38.400] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741400551\contents.pak'
+[12:52:38.401] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\885877773\contents.pak'
+[12:52:38.404] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\736593129\contents.pak'
+[12:52:38.405] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733047573\contents.pak'
+[12:52:38.406] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764887546\contents.pak'
+[12:52:38.406] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\764888606\contents.pak'
+[12:52:38.410] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729558042\contents.pak'
+[12:52:38.430] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730344724\contents.pak'
+[12:52:38.433] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734706471\contents.pak'
+[12:52:38.435] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730984694\contents.pak'
+[12:52:38.436] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729426797\contents.pak'
+[12:52:38.437] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428280\contents.pak'
+[12:52:38.440] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731220462\contents.pak'
+[12:52:38.457] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731957126\contents.pak'
+[12:52:38.469] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\735169732\contents.pak'
+[12:52:38.471] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239011708\contents.pak'
+[12:52:38.473] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1236279368\contents.pak'
+[12:52:38.474] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1235347675\contents.pak'
+[12:52:38.477] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\879213535\contents.pak'
+[12:52:38.479] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\823739640\contents.pak'
+[12:52:38.483] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730078073\contents.pak'
+[12:52:38.484] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\745573454\contents.pak'
+[12:52:38.485] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\734581251\contents.pak'
+[12:52:38.486] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1240540230\contents.pak'
+[12:52:38.487] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\855668523\contents.pak'
+[12:52:38.488] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\821455287\contents.pak'
+[12:52:38.488] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\817468961\contents.pak'
+[12:52:38.489] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730587191\contents.pak'
+[12:52:38.490] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\737840198\contents.pak'
+[12:52:38.491] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740694177\contents.pak'
+[12:52:38.504] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731125431\contents.pak'
+[12:52:38.526] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733403716\contents.pak'
+[12:52:38.545] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\733139672\contents.pak'
+[12:52:38.547] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732590195\contents.pak'
+[12:52:38.549] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730745660\contents.pak'
+[12:52:38.553] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729492703\content.pak'
+[12:52:38.557] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732206342\contents.pak'
+[12:52:38.560] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732096973\contents.pak'
+[12:52:38.563] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731592371\contents.pak'
+[12:52:38.565] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\731044896\contents.pak'
+[12:52:38.566] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730867662\contents.pak'
+[12:52:38.567] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730396626\contents.pak'
+[12:52:38.569] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730388011\contents.pak'
+[12:52:38.570] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730378641\contents.pak'
+[12:52:38.571] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730363398\contents.pak'
+[12:52:38.571] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730360251\contents.pak'
+[12:52:38.572] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\730353842\contents.pak'
+[12:52:38.572] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729746228\contents.pak'
+[12:52:38.573] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729731141\contents.pak'
+[12:52:38.573] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729532886\contents.pak'
+[12:52:38.575] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\749138636\contents.pak'
+[12:52:38.576] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\743328719\contents.pak'
+[12:52:38.578] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\753464364\contents.pak'
+[12:52:38.579] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\747212922\contents.pak'
+[12:52:38.583] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1107561606\contents.pak'
+[12:52:38.585] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\732277574\contents.pak'
+[12:52:38.587] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\954063152\contents.pak'
+[12:52:38.588] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1109048662\contents.pak'
+[12:52:38.589] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\751976722\contents.pak'
+[12:52:38.590] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\946935581\contents.pak'
+[12:52:38.592] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1147682809\contents.pak'
+[12:52:38.594] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\820860996\contents.pak'
+[12:52:38.600] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729791646\contents.pak'
+[12:52:38.602] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\942632292\contents.pak'
+[12:52:38.602] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\882900100\contents.pak'
+[12:52:38.604] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1150594604\contents.pak'
+[12:52:38.604] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428991\contents.pak'
+[12:52:38.610] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428803\contents.pak'
+[12:52:38.613] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740834534\contents.pak'
+[12:52:38.640] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427436\contents.pak'
+[12:52:38.649] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\956247051\contents.pak'
+[12:52:38.651] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729428037\contents.pak'
+[12:52:38.653] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729824320\contents.pak'
+[12:52:38.654] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\741194961\contents.pak'
+[12:52:38.655] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\796877993\contents.pak'
+[12:52:38.656] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\729427744\contents.pak'
+[12:52:38.672] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1194878261\contents.pak'
+[12:52:38.674] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\763259329\contents.pak'
+[12:52:38.742] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1115920474\contents.pak'
+[12:52:38.790] [Info] Loading assets from: 'C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1243697034\contents.pak'
+[12:52:38.793] [Info] Loading assets from: '..\assets\user'
+[12:53:07.691] [Info] Assets digest is 6a6a61b3fed1c2f96694be14d69322f21bdd94971e3e8252f77b534d92b369cf
+[12:53:07.691] [Info] Root: Loaded Assets in 35.267 seconds
+[12:53:07.703] [Info] Root: Loaded NameGenerator in 0.0111164 seconds
+[12:53:07.851] [Info] Root: Loaded PlantDatabase in 0.147423 seconds
+[12:53:08.622] [Info] Root: Loaded ImageMetadataDatabase in 2.23122e-06 seconds
+[12:53:09.012] [Error] Object sergalshiphatch defined twice, second time from /objects/sergal/other/sergalshiphatch/sergalshiphatch.object
+[12:53:09.231] [Info] Root: Loaded ObjectDatabase in 1.53898 seconds
+[12:53:09.791] [Info] Root: Loaded ProjectileDatabase in 1.94067 seconds
+[12:53:10.035] [Error] Could not apply patch from file /npcs/scienceoutpost/fuoutpostcivilian2.npctype.patch in source: ..\mymods\ZekromsKazdraRecipes\ZekromsKazdraRecipes\ZekromsKazdraRecipes.  Caused by: (JsonPatchException) Could not apply patch to base. (JsonPatchException) Could not apply operation to base. (TraversalException) No such key 'kazdra' in pathApply("/scriptConfig/dialog/converse/kazdra/default")
+[12:53:10.107] [Info] Root: Loaded NpcDatabase in 0.315604 seconds
+[12:53:10.110] [Info] Root: Loaded StagehandDatabase in 0.0034169 seconds
+[12:53:10.251] [Info] Root: Loaded VehicleDatabase in 0.139807 seconds
+[12:53:10.307] [Info] Root: Loaded MonsterDatabase in 1.07567 seconds
+[12:53:10.421] [Info] Root: Loaded PlayerFactory in 0.170689 seconds
+[12:53:10.424] [Info] Root: Loaded VersioningDatabase in 0.00294612 seconds
+[12:53:10.425] [Info] Root: Loaded EntityFactory in 0.117611 seconds
+[12:53:10.657] [Info] Root: Loaded ParticleDatabase in 0.232927 seconds
+[12:53:11.739] [Info] Root: Loaded MaterialDatabase in 1.31436 seconds
+[12:53:11.760] [Info] Root: Loaded TerrainDatabase in 0.0210436 seconds
+[12:53:12.327] [Info] Root: Loaded BiomeDatabase in 0.56693 seconds
+[12:53:12.341] [Info] Root: Loaded LiquidsDatabase in 0.0138943 seconds
+[12:53:12.395] [Error] Could not apply patch from file /stats/effects/lowgrav/lowgravaugment.statuseffect.patch in source: C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\735169732\contents.pak.  Caused by: (JsonPatchException) Could not apply patch to base. (JsonPatchException) Could not apply operation to base. (TraversalException) Could not find "gravityModifier" to remove
+[12:53:12.628] [Info] Root: Loaded StatusEffectDatabase in 0.286697 seconds
+[12:53:12.706] [Info] Root: Writing runtime configuration to '..\storage\starbound.config'
+[12:53:13.161] [Info] Root: Loaded DamageDatabase in 0.533385 seconds
+[12:53:13.185] [Info] Root: Loaded EffectSourceDatabase in 0.0234591 seconds
+[12:53:13.232] [Info] Root: Loaded FunctionDatabase in 0.0472668 seconds
+[12:53:13.579] [Info] Root: Loaded TreasureDatabase in 0.3472 seconds
+[12:53:14.573] [Error] Could not apply patch from file /dungeons/encounterdungeons/encounterdungeons.dungeon.patch in source: C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\740694177\contents.pak.  Caused by: (JsonPatchException) Could not apply patch to base. (JsonPatchException) Could not apply operation to base. (TraversalException) Tried to get key '-' in non-object type in pathApply("/metadata/anchor/-")
+[12:53:14.692] [Info] Root: Loaded DungeonDefinitions in 1.11246 seconds
+[12:53:14.692] [Info] Root: Loaded TilesetDatabase in 9.01418e-05 seconds
+[12:53:14.694] [Info] Root: Loaded StatisticsDatabase in 0.00222677 seconds
+[12:53:14.695] [Info] Root: Loaded EmoteProcessor in 0.00013075 seconds
+[12:53:14.754] [Info] Root: Loaded SpeciesDatabase in 0.0589036 seconds
+[12:53:14.858] [Info] Root: Loaded QuestTemplateDatabase in 0.104761 seconds
+[12:53:14.876] [Info] Root: Loaded AiDatabase in 0.01757 seconds
+[12:53:14.897] [Info] Root: Loaded TechDatabase in 0.0211918 seconds
+[12:53:14.950] [Info] Root: Loaded CodexDatabase in 0.0527271 seconds
+[12:53:15.398] [Info] Root: Loaded BehaviorDatabase in 0.448013 seconds
+[12:53:15.402] [Info] Root: Loaded DanceDatabase in 0.00359897 seconds
+[12:53:15.426] [Info] Root: Loaded SpawnTypeDatabase in 0.0235408 seconds
+[12:53:15.495] [Info] Root: Loaded RadioMessageDatabase in 0.069397 seconds
+[12:53:33.770] [Info] Root: Loaded ItemDatabase in 23.3488 seconds
+[12:53:36.163] [Info] Root: Loaded CollectionDatabase in 20.6684 seconds
+[12:53:40.437] [Error] Could not instantiate item '[spawnerkazdrav, 316, {}]'. (ItemException) No such item 'spawnerkazdrav'
+[12:53:40.437] [Error] Could not instantiate item '[spawnerkazdra3, 20, {}]'. (ItemException) No such item 'spawnerkazdra3'
+[12:53:40.545] [Error] Could not instantiate item '[madtulip_vent, 3, {}]'. (ItemException) No such item 'madtulip_vent'
+[12:53:40.545] [Error] Could not instantiate item '[madtulip_human_large_fin, 1, {}]'. (ItemException) No such item 'madtulip_human_large_fin'
+[12:53:40.546] [Error] Could not instantiate item '[madtulip_human_gyro_stabilizer, 1, {}]'. (ItemException) No such item 'madtulip_human_gyro_stabilizer'
+[12:53:40.586] [Error] Could not instantiate item '[madtulip_TS_human_1, 2, {}]'. (ItemException) No such item 'madtulip_TS_human_1'
+[12:53:42.774] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[12:54:10.215] [Info] UniverseServer: Acquiring universe lock file
+[12:54:10.218] [Info] UniverseServer: Loading settings
+[12:54:10.432] [Info] UniverseServer: Starting UniverseServer with UUID: 2367ec42979014a5e07b31eb0ad8b2c2
+[12:54:10.909] [Info] UniverseServer: Logged in player 'Rom' locally
+[12:54:10.909] [Info] UniverseServer: Logged in account '<anonymous>' as player 'Rom' from address local
+[12:54:11.162] [Info] UniverseServer: Loading system world (-626478204, -979414907, -220423146) from disk storage
+[12:54:11.173] [Info] UniverseClient: Joined server as client 1
+[12:54:11.327] [Info] UniverseServer: Reviving player at ClientShipWorld:2ee88603fafd2ec600dea37e2e49092d
+[12:54:11.327] [Info] UniverseServer: Client 'Rom' <1> (local) connected
+[12:54:11.328] [Info] UniverseServer: Loading client ship world ClientShipWorld:2ee88603fafd2ec600dea37e2e49092d
+[12:54:11.434] [Info] Protected dungeonIds for world set to (65524)
+[12:54:11.714] [Error] Could not apply patch from file /interface/scripted/mmupgrade/mmupgradegui.config.patch in source: C:\Program Files (x86)\Steam\steamapps\workshop\content\211820\1239011708\contents.pak.  Caused by: (JsonPatchException) Could not apply patch to base. (JsonPatchException) Could not apply operation to base. (TraversalException) No such key 'upgrades' in pathApply("/upgrades/power1/description")
+[12:54:11.730] [Info] UniverseServer: Warping player 1 to ClientShipWorld:2ee88603fafd2ec600dea37e2e49092d=1067.2.1024
+[12:54:11.786] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 64
+[12:54:11.786] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[12:54:11.820] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[12:54:11.820] [Info] detected supported OpenGL texture size 16384, using atlasNumCells 128
+[12:54:11.821] [Info] Setting steam rich presence connection as steam id 76561198347320665
+[12:54:11.842] [Error] Cannot set Steam achievement kill10poptops
+[12:54:11.843] [Error] Cannot set Steam achievement dismisscrewmember
+[12:54:11.999] [Info] UniverseServer: listening for incoming TCP connections on 0.0.0.0:21025
+[12:54:12.586] [Info] ----- FU player init -----
+[12:54:12.589] [Info] Frackin' Universe version 5.6.214
+[12:54:12.589] [Info] Chaika's RPG Growth: Version 1.35
+[12:54:53.331] [Info] Flying ship for player 1 to -626478249:-979414944:-32873697
+[12:54:53.332] [Info] UniverseServer: Creating new system world at location (-626478249, -979414944, -32873697)
+[12:54:53.354] [Info] UniverseServer: Arriving ship for player 1 at -626478249:-979414944:-32873697
+[12:55:33.393] [Info] Flying ship for player 1 to -626478249:-979414944:-32873697
+[12:55:36.313] [Info] UniverseServer: Arriving ship for player 1 at -626478249:-979414944:-32873697
+[12:55:39.535] [Info] Flying ship for player 1 to -626478249:-979414944:-32873697:6
+[12:55:40.242] [Info] UniverseServer: Creating celestial world -626478249:-979414944:-32873697:6
+[12:55:40.772] [Info] Protected dungeonIds for world set to (65524)
+[12:55:40.772] [Info] Placing dungeon kazvillage1
+[12:55:40.914] [Info] Generating dungeon kazvillage1
+[12:55:40.942] [Info] Placing dungeon at (3092, 1000)
+[12:55:44.802] [Warn] Failed to place dungeon object: tinyglowgem direction: 0 position: (3255, 989)
+[12:55:47.126] [Error] UniverseServer: error during world create: (WorldServerException) Exception encountered initializing world
+[0] 7ff762837153 Star::captureStack
+[1] 7ff762835ede Star::StarException::StarException
+[2] 7ff762835fc8 Star::StarException::StarException
+[3] 7ff762dd8670 Star::WorldServerException::WorldServerException
+[4] 7ff76320f3c1 `Star::WorldServer::init'::`1'::catch$482
+[5] 7ffd7ba3c1e0 _C_specific_handler
+[6] 7ffd7ba32d03 _TypeMatch
+[7] 7ffd8fcb4203 RtlCaptureContext
+[8] 7ff762df1f79 Star::WorldServer::init
+[9] 7ff762dd8520 Star::WorldServer::WorldServer
+[10] 7ff762cfd653 std::make_shared<Star::WorldServer,std::shared_ptr<Star::WorldTemplate> & __ptr64,std::shared_ptr<Star::File> >
+[11] 7ff762d08381 <lambda_755fc2d76450663a5bb16a372c158895>::operator()
+[12] 7ff762cf1cef std::_Invoker_functor::_Call<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[13] 7ff762cf8f56 std::invoke<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[14] 7ff762cf4f89 std::_Invoke_ret<std::shared_ptr<Star::WorldServerThread>,<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[15] 7ff762d0b416 std::_Func_impl<<lambda_755fc2d76450663a5bb16a372c158895>,std::allocator<int>,std::shared_ptr<Star::WorldServerThread> >::_Do_call
+[16] 7ff762bea337 std::_Func_class<std::shared_ptr<Star::VehicleDatabase> >::operator()
+[17] 7ff762d08662 <lambda_770d99c769b4950d94783c330804382d>::operator()
+[18] 7ff76282ea42 Star::WorkerPool::WorkerThread::run
+[19] 7ff762833c5e Star::ThreadImpl::runThread
+[20] 7ffd8f3e1fe4 BaseThreadInitThunk
+[21] 7ffd8fc7efc1 RtlUserThreadStart
+Caused by: (DungeonException) Error generating dungeon named 'kazvillage1'
+[0] 7ff762837153 Star::captureStack
+[1] 7ff762835ede Star::StarException::StarException
+[2] 7ff762835fc8 Star::StarException::StarException
+[3] 7ff7629513a0 Star::DungeonException::DungeonException
+[4] 7ff763197c47 `Star::DungeonGenerator::generate'::`1'::catch$47
+[5] 7ffd7ba3c1e0 _C_specific_handler
+[6] 7ffd7ba32d03 _TypeMatch
+[7] 7ffd8fcb4203 RtlCaptureContext
+[8] 7ff76295fddd Star::DungeonGenerator::generate
+[9] 7ff762df1f79 Star::WorldServer::init
+[10] 7ff762dd8520 Star::WorldServer::WorldServer
+[11] 7ff762cfd653 std::make_shared<Star::WorldServer,std::shared_ptr<Star::WorldTemplate> & __ptr64,std::shared_ptr<Star::File> >
+[12] 7ff762d08381 <lambda_755fc2d76450663a5bb16a372c158895>::operator()
+[13] 7ff762cf1cef std::_Invoker_functor::_Call<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[14] 7ff762cf8f56 std::invoke<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[15] 7ff762cf4f89 std::_Invoke_ret<std::shared_ptr<Star::WorldServerThread>,<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[16] 7ff762d0b416 std::_Func_impl<<lambda_755fc2d76450663a5bb16a372c158895>,std::allocator<int>,std::shared_ptr<Star::WorldServerThread> >::_Do_call
+[17] 7ff762bea337 std::_Func_class<std::shared_ptr<Star::VehicleDatabase> >::operator()
+[18] 7ff762d08662 <lambda_770d99c769b4950d94783c330804382d>::operator()
+[19] 7ff76282ea42 Star::WorkerPool::WorkerThread::run
+[20] 7ff762833c5e Star::ThreadImpl::runThread
+[21] 7ffd8f3e1fe4 BaseThreadInitThunk
+[22] 7ffd8fc7efc1 RtlUserThreadStart
+Caused by: (JsonException) Cannot call get with index on Json type int, must be Array type
+[0] 7ff762837153 Star::captureStack
+[1] 7ff762835ede Star::StarException::StarException
+[2] 7ff7627cdc4a Star::JsonException::format<Star::String>
+[3] 7ff7627d91fa Star::Json::ptr
+[4] 7ff7627d5e60 Star::Json::get
+[5] 7ff7627d668f Star::Json::getFloat
+[6] 7ff762abd48b Star::NpcDatabase::generateNpcVariant
+[7] 7ff762d96eef Star::DungeonGeneratorWorld::spawnNpc
+[8] 7ff76295ecf0 Star::Dungeon::DungeonGeneratorWriter::flush
+[9] 7ff762958c85 Star::DungeonGenerator::buildDungeon
+[10] 7ff76295fddd Star::DungeonGenerator::generate
+[11] 7ff762df1f79 Star::WorldServer::init
+[12] 7ff762dd8520 Star::WorldServer::WorldServer
+[13] 7ff762cfd653 std::make_shared<Star::WorldServer,std::shared_ptr<Star::WorldTemplate> & __ptr64,std::shared_ptr<Star::File> >
+[14] 7ff762d08381 <lambda_755fc2d76450663a5bb16a372c158895>::operator()
+[15] 7ff762cf1cef std::_Invoker_functor::_Call<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[16] 7ff762cf8f56 std::invoke<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[17] 7ff762cf4f89 std::_Invoke_ret<std::shared_ptr<Star::WorldServerThread>,<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[18] 7ff762d0b416 std::_Func_impl<<lambda_755fc2d76450663a5bb16a372c158895>,std::allocator<int>,std::shared_ptr<Star::WorldServerThread> >::_Do_call
+[19] 7ff762bea337 std::_Func_class<std::shared_ptr<Star::VehicleDatabase> >::operator()
+[20] 7ff762d08662 <lambda_770d99c769b4950d94783c330804382d>::operator()
+[21] 7ff76282ea42 Star::WorkerPool::WorkerThread::run
+[22] 7ff762833c5e Star::ThreadImpl::runThread
+[23] 7ffd8f3e1fe4 BaseThreadInitThunk
+[24] 7ffd8fc7efc1 RtlUserThreadStart
+[12:55:47.126] [Info] UniverseServer: Arriving ship for player 1 at -626478249:-979414944:-32873697:6
+[12:55:47.126] [Info] UniverseServer: Clearing broken world CelestialWorld:-626478249:-979414944:-32873697:6
+[12:55:51.859] [Info] UniverseServer: Loading celestial world -626478249:-979414944:-32873697:6
+[12:55:51.861] [Error] UniverseServer: Could not load celestial world -626478249:-979414944:-32873697:6, removing! Cause: (VersionedJsonException) VersionedJson identifier mismatch, expected 'WorldMetadata' but got ''
+[12:55:51.866] [Info] UniverseServer: Creating celestial world -626478249:-979414944:-32873697:6
+[12:55:52.028] [Info] Protected dungeonIds for world set to (65524)
+[12:55:52.028] [Info] Placing dungeon kazvillage1
+[12:55:52.028] [Info] Generating dungeon kazvillage1
+[12:55:52.059] [Info] Placing dungeon at (3092, 1000)
+[12:55:55.811] [Warn] Failed to place dungeon object: tinyglowgem direction: 0 position: (3255, 989)
+[12:55:57.303] [Error] UniverseServer: error during world create: (WorldServerException) Exception encountered initializing world
+[0] 7ff762837153 Star::captureStack
+[1] 7ff762835ede Star::StarException::StarException
+[2] 7ff762835fc8 Star::StarException::StarException
+[3] 7ff762dd8670 Star::WorldServerException::WorldServerException
+[4] 7ff76320f3c1 `Star::WorldServer::init'::`1'::catch$482
+[5] 7ffd7ba3c1e0 _C_specific_handler
+[6] 7ffd7ba32d03 _TypeMatch
+[7] 7ffd8fcb4203 RtlCaptureContext
+[8] 7ff762df1f79 Star::WorldServer::init
+[9] 7ff762dd8520 Star::WorldServer::WorldServer
+[10] 7ff762cfd653 std::make_shared<Star::WorldServer,std::shared_ptr<Star::WorldTemplate> & __ptr64,std::shared_ptr<Star::File> >
+[11] 7ff762d08381 <lambda_755fc2d76450663a5bb16a372c158895>::operator()
+[12] 7ff762cf1cef std::_Invoker_functor::_Call<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[13] 7ff762cf8f56 std::invoke<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[14] 7ff762cf4f89 std::_Invoke_ret<std::shared_ptr<Star::WorldServerThread>,<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[15] 7ff762d0b416 std::_Func_impl<<lambda_755fc2d76450663a5bb16a372c158895>,std::allocator<int>,std::shared_ptr<Star::WorldServerThread> >::_Do_call
+[16] 7ff762bea337 std::_Func_class<std::shared_ptr<Star::VehicleDatabase> >::operator()
+[17] 7ff762d08662 <lambda_770d99c769b4950d94783c330804382d>::operator()
+[18] 7ff76282ea42 Star::WorkerPool::WorkerThread::run
+[19] 7ff762833c5e Star::ThreadImpl::runThread
+[20] 7ffd8f3e1fe4 BaseThreadInitThunk
+[21] 7ffd8fc7efc1 RtlUserThreadStart
+Caused by: (DungeonException) Error generating dungeon named 'kazvillage1'
+[0] 7ff762837153 Star::captureStack
+[1] 7ff762835ede Star::StarException::StarException
+[2] 7ff762835fc8 Star::StarException::StarException
+[3] 7ff7629513a0 Star::DungeonException::DungeonException
+[4] 7ff763197c47 `Star::DungeonGenerator::generate'::`1'::catch$47
+[5] 7ffd7ba3c1e0 _C_specific_handler
+[6] 7ffd7ba32d03 _TypeMatch
+[7] 7ffd8fcb4203 RtlCaptureContext
+[8] 7ff76295fddd Star::DungeonGenerator::generate
+[9] 7ff762df1f79 Star::WorldServer::init
+[10] 7ff762dd8520 Star::WorldServer::WorldServer
+[11] 7ff762cfd653 std::make_shared<Star::WorldServer,std::shared_ptr<Star::WorldTemplate> & __ptr64,std::shared_ptr<Star::File> >
+[12] 7ff762d08381 <lambda_755fc2d76450663a5bb16a372c158895>::operator()
+[13] 7ff762cf1cef std::_Invoker_functor::_Call<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[14] 7ff762cf8f56 std::invoke<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[15] 7ff762cf4f89 std::_Invoke_ret<std::shared_ptr<Star::WorldServerThread>,<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[16] 7ff762d0b416 std::_Func_impl<<lambda_755fc2d76450663a5bb16a372c158895>,std::allocator<int>,std::shared_ptr<Star::WorldServerThread> >::_Do_call
+[17] 7ff762bea337 std::_Func_class<std::shared_ptr<Star::VehicleDatabase> >::operator()
+[18] 7ff762d08662 <lambda_770d99c769b4950d94783c330804382d>::operator()
+[19] 7ff76282ea42 Star::WorkerPool::WorkerThread::run
+[20] 7ff762833c5e Star::ThreadImpl::runThread
+[21] 7ffd8f3e1fe4 BaseThreadInitThunk
+[22] 7ffd8fc7efc1 RtlUserThreadStart
+Caused by: (JsonException) Cannot call get with index on Json type int, must be Array type
+[0] 7ff762837153 Star::captureStack
+[1] 7ff762835ede Star::StarException::StarException
+[2] 7ff7627cdc4a Star::JsonException::format<Star::String>
+[3] 7ff7627d91fa Star::Json::ptr
+[4] 7ff7627d5e60 Star::Json::get
+[5] 7ff7627d668f Star::Json::getFloat
+[6] 7ff762abd48b Star::NpcDatabase::generateNpcVariant
+[7] 7ff762d96eef Star::DungeonGeneratorWorld::spawnNpc
+[8] 7ff76295ecf0 Star::Dungeon::DungeonGeneratorWriter::flush
+[9] 7ff762958c85 Star::DungeonGenerator::buildDungeon
+[10] 7ff76295fddd Star::DungeonGenerator::generate
+[11] 7ff762df1f79 Star::WorldServer::init
+[12] 7ff762dd8520 Star::WorldServer::WorldServer
+[13] 7ff762cfd653 std::make_shared<Star::WorldServer,std::shared_ptr<Star::WorldTemplate> & __ptr64,std::shared_ptr<Star::File> >
+[14] 7ff762d08381 <lambda_755fc2d76450663a5bb16a372c158895>::operator()
+[15] 7ff762cf1cef std::_Invoker_functor::_Call<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[16] 7ff762cf8f56 std::invoke<<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[17] 7ff762cf4f89 std::_Invoke_ret<std::shared_ptr<Star::WorldServerThread>,<lambda_755fc2d76450663a5bb16a372c158895> & __ptr64>
+[18] 7ff762d0b416 std::_Func_impl<<lambda_755fc2d76450663a5bb16a372c158895>,std::allocator<int>,std::shared_ptr<Star::WorldServerThread> >::_Do_call
+[19] 7ff762bea337 std::_Func_class<std::shared_ptr<Star::VehicleDatabase> >::operator()
+[20] 7ff762d08662 <lambda_770d99c769b4950d94783c330804382d>::operator()
+[21] 7ff76282ea42 Star::WorkerPool::WorkerThread::run
+[22] 7ff762833c5e Star::ThreadImpl::runThread
+[23] 7ffd8f3e1fe4 BaseThreadInitThunk
+[24] 7ffd8fc7efc1 RtlUserThreadStart
+[12:55:57.303] [Info] UniverseServer: Warping player 1 to CelestialWorld:-626478249:-979414944:-32873697:6
+[12:55:57.303] [Info] UniverseServer: Warping player 1 failed, invalid world 'CelestialWorld:-626478249:-979414944:-32873697:6' or world failed to load
+[12:56:02.221] [Info] UniverseServer: Clearing broken world CelestialWorld:-626478249:-979414944:-32873697:6
+[12:57:57.453] [Info] UniverseClient: Client disconnecting...
+[12:57:57.539] [Info] Client received world stop packet, leaving: Removed
+[12:57:57.632] [Info] UniverseServer: Client 'Rom' <1> (local) disconnected for reason: 
+[12:57:57.633] [Info] UniverseServer: Stopping idle world ClientShipWorld:2ee88603fafd2ec600dea37e2e49092d
+[12:57:57.876] [Info] UniverseServer: Stopping UniverseServer
+[12:57:57.878] [Info] UniverseServer: Stopping TCP Server
+[12:57:57.908] [Info] Clearing steam rich presence connection
+[12:57:59.301] [Info] Application: quit requested
+[12:57:59.301] [Info] Application: quitting...
+[12:57:59.301] [Info] Application: shutdown...
+[12:57:59.524] [Info] Root: Shutting down Root
+[12:58:00.218] [Info] Application: Destroying SDL Window
+[12:58:00.274] [Info] Application: stopped gracefully
