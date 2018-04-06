@@ -1,0 +1,45 @@
+[
+{ "op" : "replace",
+"path": "/planetTypes/forest/layers/surface/dungeons",
+"value" : [[1.0, "kazvillage1"]]
+},
+{ "op" : "replace",
+"path": "/planetTypes/jungle/layers/surface/dungeons",
+"value" : [[1.0, "kazvillage1"]]
+},
+{ "op" : "replace",
+"path": "/planetTypes/desert/layers/surface/dungeons",
+"value" : [[1.0, "kazvillage1"]]
+},
+{ "op" : "replace",
+"path": "/planetTypes/savannah/layers/surface/dungeons",
+"value" : [[1.0, "kazvillage1"]]
+},
+{ "op" : "replace",
+"path": "/planetTypes/volcanic/layers/surface/dungeons",
+"value" : [[1.0, "kazvillage1"]]
+}
+]
+/*
+[
+{ "op" : "add",
+"path": "/planetTypes/forest/layers/surface/dungeons/-",
+"value" : [4.0, "kazvillage1"]
+},
+{ "op" : "add",
+"path": "/planetTypes/jungle/layers/surface/dungeons/-",
+"value" : [2.0, "kazvillage1"]
+},
+{ "op" : "add",
+"path": "/planetTypes/desert/layers/surface/dungeons/-",
+"value" : [5.0, "kazvillage1"]
+},
+{ "op" : "add",
+"path": "/planetTypes/savannah/layers/surface/dungeons/-",
+"value" : [3.0, "kazvillage1"]
+},
+{ "op" : "add",
+"path": "/planetTypes/volcanic/layers/surface/dungeons/-",
+"value" : [4.0, "kazvillage1"]
+}
+]*/

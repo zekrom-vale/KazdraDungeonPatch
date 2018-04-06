@@ -1,0 +1,25 @@
+[
+{
+"op" : "test",
+"path" : "/platform",
+"value" : "true"
+},
+{
+"op" : "remove",
+"path" : "/platform"
+},
+{
+"op" : "add",
+"path" : "/collisionKind",
+"value" : "platform"
+},
+{
+"op" : "replace",
+"path" : "/category",
+"value" : "Supports"
+},
+{
+"op" : "remove",
+"path" : "/transparent"
+}
+]

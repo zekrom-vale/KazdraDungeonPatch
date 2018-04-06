@@ -1,0 +1,13 @@
+{
+  "author" : "zekrom_vale",
+  "description" : "Note: This mod may be unstable as there was errors with world generation in the core mod, resulting in it being removed.\nAdds The Kazdra dungeon village to the world spawn for kazdrareloaded 0.1.27.  This mod requires [url=http://steamcommunity.com/sharedfiles/filedetails/?id=949156982]The Kazdra Reloaded[/url] by Andr3w246.\nThis mod is a patch for The Kazdra Reloaded all images and content belong to Andr3w246!\nNote: make sure to mention this mod when reporting errors on The Kazdra Reloaded page.",
+  "friendlyName" : "Zekrom's Kazdra Village Patch",
+  "friendlyname" : "Zekrom's Kazdra Dungeon Patch",
+  "link" : "steam://url/CommunityFilePage/1263728387",
+  "name" : "KazdraDungeonPatch",
+  "includes" : ["ZekromsKazdraRecipes"],
+  "requires" : ["kazdrareloaded"],
+  "steamContentId" : "1263728387",
+  "tags" : "Dungeons",
+  "version" : "0.1.27.2"
+}

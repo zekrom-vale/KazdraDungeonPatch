@@ -1,0 +1,380 @@
+{ "height":11,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 333, 333, 333, 333, 333, 333, 326, 326, 333, 333, 333, 333, 333, 333, 333, 333, 333, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 326, 326, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 326, 326, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 326, 326, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 326, 326, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 342, 326],
+         "height":11,
+         "name":"back",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":76,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "name":"wiring",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "name":"objects",
+         "objects":[
+                {
+                 "gid":1089,
+                 "height":32,
+                 "id":11,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":54,
+                 "x":16,
+                 "y":48
+                }, 
+                {
+                 "gid":2596,
+                 "height":24,
+                 "id":14,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":384,
+                 "y":40
+                }, 
+                {
+                 "gid":2698,
+                 "height":40,
+                 "id":16,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":336,
+                 "y":48
+                }, 
+                {
+                 "gid":2147486346,
+                 "height":40,
+                 "id":17,
+                 "name":"",
+                 "properties":
+                    {
+                     "tilesetDirection":"left"
+                    },
+                 "propertytypes":
+                    {
+                     "tilesetDirection":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":552,
+                 "y":40
+                }, 
+                {
+                 "gid":2831,
+                 "height":24,
+                 "id":18,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":480,
+                 "y":32
+                }, 
+                {
+                 "gid":2832,
+                 "height":24,
+                 "id":19,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":160,
+                 "y":40
+                }, 
+                {
+                 "gid":2831,
+                 "height":24,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":64,
+                 "x":272,
+                 "y":48
+                }, 
+                {
+                 "gid":861,
+                 "height":16,
+                 "id":21,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":240,
+                 "y":48
+                }, 
+                {
+                 "gid":4784,
+                 "height":40,
+                 "id":22,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":448,
+                 "y":40
+                }, 
+                {
+                 "gid":4784,
+                 "height":40,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":88,
+                 "y":40
+                }, 
+                {
+                 "gid":4784,
+                 "height":40,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":104,
+                 "y":40
+                }, 
+                {
+                 "gid":4784,
+                 "height":40,
+                 "id":26,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":120,
+                 "y":40
+                }, 
+                {
+                 "gid":4784,
+                 "height":40,
+                 "id":27,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":16,
+                 "x":136,
+                 "y":40
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 326, 326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 0, 0, 0, 0, 332, 0, 337, 337, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 0, 0, 0, 0, 332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 333, 333, 333, 333, 333, 333, 326, 326, 333, 333, 333, 333, 333, 333, 333, 333, 333, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 333, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 326, 326, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 326, 326, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 326, 326, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 326, 326, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 330, 326],
+         "height":11,
+         "name":"front",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":76,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":28,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"2018.01.16",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\huge-objects.json"
+        }, 
+        {
+         "firstgid":102,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\liquids.json"
+        }, 
+        {
+         "firstgid":130,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\materials.json"
+        }, 
+        {
+         "firstgid":325,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\miscellaneous.json"
+        }, 
+        {
+         "firstgid":347,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\supports.json"
+        }, 
+        {
+         "firstgid":383,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\actionfigure.json"
+        }, 
+        {
+         "firstgid":450,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\artifact.json"
+        }, 
+        {
+         "firstgid":455,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\breakable.json"
+        }, 
+        {
+         "firstgid":763,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\bug.json"
+        }, 
+        {
+         "firstgid":806,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\crafting.json"
+        }, 
+        {
+         "firstgid":886,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\decorative.json"
+        }, 
+        {
+         "firstgid":2302,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\door.json"
+        }, 
+        {
+         "firstgid":2430,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\farmable.json"
+        }, 
+        {
+         "firstgid":2505,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\farmbeastegg.json"
+        }, 
+        {
+         "firstgid":2513,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\fridgestorage.json"
+        }, 
+        {
+         "firstgid":2520,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\furniture.json"
+        }, 
+        {
+         "firstgid":2866,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\genboss.json"
+        }, 
+        {
+         "firstgid":2872,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\generic.json"
+        }, 
+        {
+         "firstgid":2873,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\light.json"
+        }, 
+        {
+         "firstgid":3315,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\other.json"
+        }, 
+        {
+         "firstgid":3618,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\playerstation.json"
+        }, 
+        {
+         "firstgid":3623,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\pot.json"
+        }, 
+        {
+         "firstgid":3920,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\rail.json"
+        }, 
+        {
+         "firstgid":3924,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\railpoint.json"
+        }, 
+        {
+         "firstgid":3929,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\refinery.json"
+        }, 
+        {
+         "firstgid":3930,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\sapling.json"
+        }, 
+        {
+         "firstgid":3931,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\seed.json"
+        }, 
+        {
+         "firstgid":4007,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\shippingcontainer.json"
+        }, 
+        {
+         "firstgid":4008,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\spawner.json"
+        }, 
+        {
+         "firstgid":4024,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\storage.json"
+        }, 
+        {
+         "firstgid":4255,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\techmanagement.json"
+        }, 
+        {
+         "firstgid":4256,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\teleporter.json"
+        }, 
+        {
+         "firstgid":4296,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\teleportmarker.json"
+        }, 
+        {
+         "firstgid":4310,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\terraformer.json"
+        }, 
+        {
+         "firstgid":4336,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\tool.json"
+        }, 
+        {
+         "firstgid":4344,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\tools.json"
+        }, 
+        {
+         "firstgid":4349,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\trap.json"
+        }, 
+        {
+         "firstgid":4553,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\objects-by-category\\wire.json"
+        }, 
+        {
+         "firstgid":4770,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\kazdraTilesets\\kazobj.json"
+        }, 
+        {
+         "firstgid":4790,
+         "source":"C:\\Program Files (x86)\\Steam\\steamapps\\common\\Starbound\\assets\\packed\\tilesets\\packed\\kazdraTilesets\\kazmaterials.json"
+        }],
+ "tilewidth":8,
+ "type":"map",
+ "version":1,
+ "width":76
+}
